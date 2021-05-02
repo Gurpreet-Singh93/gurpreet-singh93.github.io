@@ -1,0 +1,23 @@
+.profile-img {
+    display: flex; 
+    align-content: center; 
+    justify-content: center; 
+    flex-wrap: wrap;
+}
+
+.intro-height{
+    min-height: 370px; 
+}
+
+.border-outer{
+    border: none;
+}
+
+.nav-right{
+    justify-content: flex-end;
+}
+
+.card-bg{
+    background: none;
+    background-color: none;
+}
